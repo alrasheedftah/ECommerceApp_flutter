@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1780981993",
+    "firebase_url": "https://ecomerce-e656b.firebaseio.com",
+    "project_id": "ecomerce-e656b",
+    "storage_bucket": "ecomerce-e656b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1780981993:android:524b914a28e8757f855078",
+        "android_client_info": {
+          "package_name": "com.example.ECommerceTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1780981993-8e2nb0odln6b1pvbdl45lgnlbb57hs24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPNWiotN1nWkBye-Qi6TV6LHTZPcZWMwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1780981993-8e2nb0odln6b1pvbdl45lgnlbb57hs24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
